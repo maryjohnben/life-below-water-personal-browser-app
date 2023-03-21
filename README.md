@@ -8,4 +8,6 @@ The app will consist of various features such as:
 - search for volunteer opportunities
 - signup for volunteer tasks
 - track progress
+- home page
+- profile page
 
