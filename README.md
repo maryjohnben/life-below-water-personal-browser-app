@@ -13,3 +13,13 @@ The app consist of various features such as:
 - profile page
 
 The current app in the development process is going to be browser based and will utilize following technologies:
+- ReactJS
+- NextJS
+- NodeJS
+- CSS
+- HTML
+- Material UI
+- React Router
+- React Hooks
+- React Bootstrap
+- MongoDB
