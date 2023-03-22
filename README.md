@@ -23,3 +23,6 @@ The current app in the development process is going to be browser based and will
 - React Hooks
 - React Bootstrap
 - MongoDB
+
+Mobile Application using React Native will be coming soon following the current browser based project.
+*Technologies to be used is subject to change based on the need of the project.
