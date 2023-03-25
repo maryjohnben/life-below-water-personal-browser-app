@@ -12,7 +12,7 @@ The app consists of various features such as:
 - home page
 - profile page
 
-The current app in the development process is going to be browser based and will utilizeb the following technologies:
+The current app in the development process is going to be browser based and will utilizeb the following technologies and will be developed using Test Driven Development:
 - ReactJS
 - NextJS
 - NodeJS
@@ -22,6 +22,8 @@ The current app in the development process is going to be browser based and will
 - React Router
 - React Hooks
 - React Bootstrap
+- JavaScript
+- Jest
 - MongoDB
 
 Mobile Application using React Native will be coming soon following the current browser based project.
