@@ -28,5 +28,5 @@ The current app in the development process is going to be browser based and will
 
 Mobile Application using React Native will be coming soon following the current browser based project.
 <p>
-*Technologies to be used is subject to change based on the needs of the project.
+*Technologies to be used in the project is subject to change based on the needs of the project.
 </p>
