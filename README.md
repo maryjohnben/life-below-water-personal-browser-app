@@ -6,13 +6,13 @@ The app consists of various features such as:
 - user login
 - user signup
 - search for volunteer opportunities
-- Locations available near the user to help with the Susttainable Development goal
+- locations available near the user to help with the Susttainable Development goal
 - signup for volunteer tasks
 - track progress
 - home page
 - profile page
 
-The current app in the development process is going to be browser based and will utilizeb the following technologies and will be developed using Test Driven Development:
+The current app in the development process is going to be browser based and will utilize the following technologies and will be developed using Test Driven Development:
 - ReactJS
 - NextJS
 - NodeJS
@@ -25,6 +25,9 @@ The current app in the development process is going to be browser based and will
 - JavaScript
 - Jest
 - MongoDB
+- Render/fly.io
+
+Tools: VS Code, DBeaver, Chrome Browser, Browser Devtools, Postman, Github
 
 Mobile Application using React Native will be coming soon following the current browser based project.
 <p>
