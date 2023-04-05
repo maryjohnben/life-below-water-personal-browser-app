@@ -27,7 +27,7 @@ The current app in the development process is going to be browser based and will
 - MongoDB
 - Render/fly.io
 
-Tools: VS Code, DBeaver, Chrome Browser, Browser Devtools, Postman, Github
+Tools: VS Code, DBeaver, Chrome Browser, Browser Devtools, Postman, Github, Git Bash Command Line
 
 Mobile Application using React Native will be coming soon following the current browser based project.
 <p>
