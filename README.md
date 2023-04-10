@@ -29,7 +29,7 @@ The current app in the development process is going to be browser based and will
 
 Tools: VS Code, DBeaver, Chrome Browser, Browser Devtools, Postman, Github, Git Bash Command Line
 
-Mobile Application using React Native will be coming soon following the current browser based project.
+Mobile Application using React Native will be added soon following the current browser based project.
 <p>
 *Technologies to be used in the project is subject to change based on the needs of the project.
 </p>
