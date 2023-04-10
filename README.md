@@ -16,13 +16,16 @@ The current app in the development process is going to be browser based and will
 - ReactJS
 - NextJS
 - NodeJS
-- CSS
-- HTML
+- CSS3
+- HTML5
 - Material UI
 - React Router
 - React Hooks
 - React Bootstrap
+- CSS Bootstrap
+- Tailwind
 - JavaScript
+- TypeScript
 - Jest
 - MongoDB
 - Render/fly.io
