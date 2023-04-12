@@ -6,7 +6,7 @@ The app consists of various features such as:
 - user login
 - user signup
 - search for volunteer opportunities
-- locations available near the user to help with the Susttainable Development goal
+- locations available near the user to help with the sustainable development goal
 - signup for volunteer tasks
 - track progress
 - home page
