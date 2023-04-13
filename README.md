@@ -23,7 +23,7 @@ The current app in the development process is going to be browser based and will
 - React Hooks
 - React Bootstrap
 - CSS Bootstrap
-- Tailwind
+- Tailwind CSS
 - JavaScript
 - TypeScript
 - Jest
