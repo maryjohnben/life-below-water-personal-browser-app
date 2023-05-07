@@ -8,7 +8,7 @@ The app consists of various features such as:
 - search for volunteer opportunities
 - locations available near the user to help with the World Health Organization (WHO) sustainable development goal
 - signup for volunteer tasks
-- track progress
+- progress tracker
 - home page
 - profile page
 
